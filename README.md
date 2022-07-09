@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To Add Formik Hook in your Project you need to run the command [npm install formik](https://formik.org/)
 ## Available Scripts
 
 In the project directory, you can run:
